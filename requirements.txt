@@ -1,0 +1,5 @@
+beautifulsoup4==4.15.0
+fastapi==0.141.1
+pdfplumber==0.11.10
+python-multipart==0.0.32
+uvicorn==0.54.0
